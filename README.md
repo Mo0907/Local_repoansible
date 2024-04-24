@@ -43,6 +43,3 @@
       ansible.builtin.copy:
         src: index.php
         dest: /var/www/html/index.html
-
-
-"ansiblefile.txt" 48L, 1097B   
